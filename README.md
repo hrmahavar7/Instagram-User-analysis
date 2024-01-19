@@ -47,8 +47,8 @@ Write a short paragraph about your approach towards the project and how you have
 Tech-Stack Used
 Do mention the software and the version used while making the project (For Eg. Jupyter Notebook, etc) and mention the purpose of using it.
 
-Insights
+Insights:
 Jot down the insights and the knowledge you gained while making the project. You need to write that what do you infer about the things. Make sure its brief and up to the point only. For Eg. If you got a graph then what do you understand by the graph, what changes can you make or what can you derive from the graph.
 
-Result
+Result:
 Mention what have you achieved while making the project and how do you think it has helped you.
