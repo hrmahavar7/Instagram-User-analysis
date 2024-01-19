@@ -34,15 +34,15 @@ Your Task: Provide how many times does average user posts on Instagram. Also, pr
 2. Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts
 Your Task: Provide data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this).
 
-How to do this Project?
+How to do this Project?-----
 Create a Database: You are supposed to run the following commands for creating the database to work on (the database has been provided in the attachments)
 Perform Analysis: Use SQL to perform your entire analysis answering the questions asked above
 Submit a Report: Make a report (PDF/PPT) to be presented to the leadership team. The report should/can contain the following details:
 
 Project Description
-Give a brief about your project description i.e. what is this project about, how are you going to handle the things and what are the things that you are going to find out through the project.
+Give: a brief about your project description i.e. what is this project about, how are you going to handle the things and what are the things that you are going to find out through the project.
 
-Approach
+Approach:
 Write a short paragraph about your approach towards the project and how you have executed it.
 Tech-Stack Used
 Do mention the software and the version used while making the project (For Eg. Jupyter Notebook, etc) and mention the purpose of using it.
